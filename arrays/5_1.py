@@ -37,7 +37,7 @@ def quick_sort(arr,s,e):
 
 
 
-arr = [5,4,3,6,7,8]
-quick_sort(arr,0,5)
+arr = [5,4,3,6,7,8,4]
+quick_sort(arr,0,6)
 print(arr)
 
