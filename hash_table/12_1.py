@@ -16,7 +16,7 @@ def Plin_possible(s):
             odd_cahr = chr(idx+ord("a"))
     palin_st = ""
     if flag<=1:
-        while 
+        while .
     st = 0
     end = len(s)-1
     return flag<=1
